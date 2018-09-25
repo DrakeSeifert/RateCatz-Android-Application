@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <RadioGroup
+            android:id="@+id/rg_category"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/rb_test1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Test1"
+                android:checked="true" />
+
+            <RadioButton
+                android:id="@+id/rb_test2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Test2" />
+
+        </RadioGroup>
+
+    </LinearLayout>-->
+
+    <ListPreference
+        android:key="pref_tag"
+        android:title="@string/pref_tag_title"
+        android:summary="%s"
+        android:entries="@array/pref_tag_list"
+        android:entryValues="@array/pref_tag_list"
+
+        android:defaultValue="none"/>
+
+</PreferenceScreen>
