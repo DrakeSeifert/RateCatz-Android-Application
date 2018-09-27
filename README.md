@@ -14,44 +14,57 @@ Initially created for CS492: Mobile Software Development, Rate Catz contains the
 
 The main page features two cats. These cats can be cute and cuddly or viscious and ugly! The app even features gifs to show cats in action. Your challenge is to swipe to select your favorite. The app will continue to fetch random cat pictures for as long as you desire!
 
-![ScreenShot1](https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot1.jpg)
+<p align="center">
+  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot1.jpg" alt="ScreenShot1" width="400"/>
+</p>
 
 ---
 
 But wait, there's more! There is a CATegory option in the settings menu that allows you to pick specific categories of cats; only pictures of cats related to the chosen CATegory will appear for you to swipe on.
 
-![ScreenShot2](https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot2.jpg)
+<p align="center">
+  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot2.jpg" alt="ScreenShot1" width="400"/>
+</p>
 
 ---
 
 After choosing "sunglasses" from the CATegory menu, only cats with sunglasses will be available to swipe!
 
-![ScreenShot3](https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot3.jpg)
+<p align="center">
+  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot3.jpg" alt="ScreenShot1" width="400"/>
+</p>
 
 ---
 
 If you ever come across cats you cannot live without, go ahead and double tap the photo to add it to your favorites! (You can even favorite both photos).
 
-![ScreenShot4](https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot4.jpg)
+<p align="center">
+  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot4.jpg" alt="ScreenShot1" width="400"/>
+</p>
 
 ---
 
 To see what cats you have favorited, head on over to the favorites section. You can delete cats at any time by holding down the photo and selecting the delete option.
 
-![ScreenShot5](https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot5.jpg)
+<p align="center">
+  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot5.jpg" alt="ScreenShot1" width="400"/>
+</p>
 
 ---
 
 You can also select the photo to get a "Kitty Cat Closeup"
 
-![ScreenShot6](https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot6.jpg)
+<p align="center">
+  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot6.jpg" alt="ScreenShot1" width="400"/>
+</p>
 
 ---
 
 If you find a photo that your friends must see, easily grab a shareable the link by clicking the share icon from the Kitty Cat Closeup menu!
 
-![ScreenShot7](https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot7.jpg)
-
+<p align="center">
+  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot7.jpg" alt="ScreenShot1" width="400"/>
+</p>
 
 ## The Cat API 
 
