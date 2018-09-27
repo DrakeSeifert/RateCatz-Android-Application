@@ -4,7 +4,7 @@ A masterfully crafted Android application with the main intent of pitting two ca
 Initially created for CS492: Mobile Software Development, Rate Catz contains the following:
 
 1. Multiple activities
-2. At least one implicit intent to launch an external app
+2. An implicit intent to launch an external app
 3. HTTPS requests to a third-party API 
 4. Activity lifecycle methods to ensure clarity and flow
 5. Ability to store favorite cats in a database using SQLite
