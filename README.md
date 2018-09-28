@@ -69,8 +69,8 @@ If you find a photo that your friends must see, easily grab a shareable the link
 ## The Cat API 
 
 The [Cat API](http://thecatapi.com/ "The Cat API") allows cat loving developers to randomly select cats for their app.
-It references a database with easy to write queries and will return a selection of random cat image links.
-This API also has functionality to allow for favoriting and voting through other specific queries.
+It references a database with intuitive query options and will return a selection of random cat image links.
+The Cat API also has the functionality to allow for favoriting and voting through other specific queries.
 
 ## Developers
 
