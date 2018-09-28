@@ -15,7 +15,7 @@ Initially created for CS492: Mobile Software Development, Rate Catz contains the
 The main page features two cats. These cats can be cute and cuddly or viscious and ugly! The app even features gifs to show cats in action. Your challenge is to swipe to select your favorite. The app will continue to fetch random cat pictures for as long as you desire!
 
 <p align="center">
-  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot1.jpg" alt="ScreenShot1" width="400"/>
+  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot1.jpg" alt="ScreenShot1" width="300"/>
 </p>
 
 ---
@@ -23,7 +23,7 @@ The main page features two cats. These cats can be cute and cuddly or viscious a
 But wait, there's more! There is a CATegory option in the settings menu that allows you to pick specific categories of cats; only pictures of cats related to the chosen CATegory will appear for you to swipe on.
 
 <p align="center">
-  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot2.jpg" alt="ScreenShot1" width="400"/>
+  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot2.jpg" alt="ScreenShot1" width="300"/>
 </p>
 
 ---
@@ -31,7 +31,7 @@ But wait, there's more! There is a CATegory option in the settings menu that all
 After choosing "sunglasses" from the CATegory menu, only cats with sunglasses will be available to swipe!
 
 <p align="center">
-  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot3.jpg" alt="ScreenShot1" width="400"/>
+  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot3.jpg" alt="ScreenShot1" width="300"/>
 </p>
 
 ---
@@ -39,7 +39,7 @@ After choosing "sunglasses" from the CATegory menu, only cats with sunglasses wi
 If you ever come across cats you cannot live without, go ahead and double tap the photo to add it to your favorites! (You can even favorite both photos).
 
 <p align="center">
-  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot4.jpg" alt="ScreenShot1" width="400"/>
+  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot4.jpg" alt="ScreenShot1" width="300"/>
 </p>
 
 ---
@@ -47,7 +47,7 @@ If you ever come across cats you cannot live without, go ahead and double tap th
 To see what cats you have favorited, head on over to the favorites page. You can delete cats at any time by holding down the photo and selecting the delete option.
 
 <p align="center">
-  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot5.jpg" alt="ScreenShot1" width="400"/>
+  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot5.jpg" alt="ScreenShot1" width="300"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@ To see what cats you have favorited, head on over to the favorites page. You can
 You can also select the photo to get a "Kitty Cat Closeup"
 
 <p align="center">
-  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot6.jpg" alt="ScreenShot1" width="400"/>
+  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot6.jpg" alt="ScreenShot1" width="300"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@ You can also select the photo to get a "Kitty Cat Closeup"
 If you find a photo that your friends must see, easily grab a shareable the link by clicking the share icon from the Kitty Cat Closeup page!
 
 <p align="center">
-  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot7.jpg" alt="ScreenShot1" width="400"/>
+  <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot7.jpg" alt="ScreenShot1" width="300"/>
 </p>
 
 ## The Cat API 
