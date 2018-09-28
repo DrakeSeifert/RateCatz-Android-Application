@@ -44,7 +44,7 @@ If you ever come across cats you cannot live without, go ahead and double tap th
 
 ---
 
-To see what cats you have favorited, head on over to the favorites section. You can delete cats at any time by holding down the photo and selecting the delete option.
+To see what cats you have favorited, head on over to the favorites page. You can delete cats at any time by holding down the photo and selecting the delete option.
 
 <p align="center">
   <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot5.jpg" alt="ScreenShot1" width="400"/>
@@ -60,7 +60,7 @@ You can also select the photo to get a "Kitty Cat Closeup"
 
 ---
 
-If you find a photo that your friends must see, easily grab a shareable the link by clicking the share icon from the Kitty Cat Closeup menu!
+If you find a photo that your friends must see, easily grab a shareable the link by clicking the share icon from the Kitty Cat Closeup page!
 
 <p align="center">
   <img src="https://github.com/DrakeSeifert/RateCatz-Android-Application/blob/master/ScreenShots/ScreenShot7.jpg" alt="ScreenShot1" width="400"/>
